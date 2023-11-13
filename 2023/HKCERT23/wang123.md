@@ -1,8 +1,8 @@
 # Wang123
 
-![1699885443604](image/wang123/1699885443604.png)
-
 Wang123 是一個拼圖題目。
+
+![1699885443604](image/wang123/1699885443604.png)
 
 從 fake flag 的構造中，並參考[王氏磚](https://zh.wikipedia.org/zh-hk/%E7%8E%8B%E6%B0%8F%E7%A3%9A)的有關知識，我們可以發現，flag 的構造由 fake 四個塊開始，依次向下和向右填充區塊。
 
