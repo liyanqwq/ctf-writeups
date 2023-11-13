@@ -10,6 +10,6 @@
 
 - [Tuning Keyboard 4](./tuning-keyboard-4.md)
 
-<br /><br />
+<br />
 
 [PPT 版本](./slides/slides.pdf)
